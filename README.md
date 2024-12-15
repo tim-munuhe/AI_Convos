@@ -1,2 +1,2 @@
 # AI_Convos
-Conversations with AI
+Files detailing the responses of different AI prompts. Mainly Gemini but will include Claude and ChatGPT prompts.
